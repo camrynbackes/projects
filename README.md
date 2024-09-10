@@ -31,7 +31,7 @@ FROM `data-analytics-sql-424800.marketing_campaign.marketing-campaign`
 GROUP BY (Promotion)
 ````
 
-Results show that Promo 3 had the highest total sales overall, and promo 2 had the lowest. Let's see if Promo 3 really is the best promotion to use for this new campaign. 
+Results show that Promo 3 had the highest total sales overall, followed by Promo 1. However, Promo 1 was tested at a slightly less amount of locations. Let's see if Promo 3 really is the best choice to use for this new campaign. 
 
 ### 3. How did MarketID effect promotion performance? 
 
